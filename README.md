@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 
-## 🔗 [배포 링크](https://pre-onboarding-10th-1-8.vercel.app/)
+## 🔗 [배포 링크](https://main--sprightly-meringue-400fe6.netlify.app/)
 
 ## 목차
 
